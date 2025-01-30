@@ -7,6 +7,8 @@ The Attendance Management System Using Face Recognition is a Python-based projec
 - **Database Integration:** Attendance records are stored securely in a database for easy access.
   
 ### DEMO
+![STMODL](https://github.com/user-attachments/assets/48631305-54ed-42fb-87b2-ef24f1717f94)
+
 ![ATMODEL](https://github.com/user-attachments/assets/133eef46-dc5a-4fc4-b3dd-0e4316cf8ea5)
 
 ![attsub](https://github.com/user-attachments/assets/43b27d50-f360-4916-9174-df20438cee42)
